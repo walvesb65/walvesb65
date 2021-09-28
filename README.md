@@ -11,7 +11,7 @@
 
 - 💻 Estou focado em aprender **Python / Go**
 
-- 🤝 Buscando por ajuda com **Node.Js / MongoDB**
+- 🤝 Aprimorando conhecimentos em **Node.Js / MongoDB**
 
 - 💬 Vamos falar sobre **Tecnologia, filmes e viagens**
 
