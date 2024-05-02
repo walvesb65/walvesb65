@@ -13,11 +13,9 @@
 
 - 🤝 Aprimorando conhecimentos em **Node.Js / MongoDB**
 
-- 💬 Vamos falar sobre **Tecnologia, filmes e viagens**
+- 💬 Vamos falar sobre **Tecnologia**
 
 - 📫 Email **willian.alvesb65@gmail.com**
-
-- 📄 Conheça minhas experiências [Link](https://url.gratis/L5AyBB)
 
 - ⚡ Curiosidade **Costumo ser comunicativo e fazer novas amizades por onde passo, amo viajar, conhecer novas culturas e culinárias, nasci para ser nômade digital e experimentar mundo e suas peripécias.**
 
