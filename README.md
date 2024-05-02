@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walvesb65" alt="walvesb65" /></a> </p>
 
-- 📚 Estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
+- 📚 Desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
-- 🌱 Atualmente estou aprendendo **React, Redux, ContextAPI, Jest, RTL, CSS e desenvolvimento Back-end**
+- 🌱 Tenho habilidade com **React, Redux, ContextAPI, Jest, RTL, CSS e desenvolvimento Back-end**
 
 - 💻 Estou focado em aprender **Python / Go**
 
